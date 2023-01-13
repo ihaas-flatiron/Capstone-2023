@@ -23,9 +23,9 @@ Random Transformation for training
 Loss: Cross Entropy , Accuracy
 Optimization: Adam Optimizer RMS Propagation
 
-![Mistaken Output](/Capstone/download(2).png)
+![Mistaken Output](/Capstone/download (2).png)
 
-![Accurate Output](/Capstone/download(4).png)
+![Accurate Output](/Capstone/download (4).png)
 
 
 ### For the Future
