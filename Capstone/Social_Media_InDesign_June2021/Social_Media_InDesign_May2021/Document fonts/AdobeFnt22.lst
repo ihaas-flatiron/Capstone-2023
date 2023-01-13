@@ -1,0 +1,104 @@
+%!Adobe-FontList 1.22
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/Admin/Desktop/0. Brand/2. Applications/Digital/Social Media/Social Media Guidelines UK March 2021/New templates May 2021/Social_Media_InDesign_Jan2021/Social_Media_1350x1080_InDesign_May2021/Social_Media_1350x1080_InDesign_May2021 Folder/Document fonts/AdobeFnt22.lst
+FileLength:2918
+FileModTime:643545332
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans-Bold
+FamilyName:Open Sans
+StyleName:Bold
+MenuName:Open Sans
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Open Sans Bold
+WritingScript:Roman
+OutlineFileName:/Users/Admin/Desktop/0. Brand/2. Applications/Digital/Social Media/Social Media Guidelines UK March 2021/New templates May 2021/Social_Media_InDesign_Jan2021/Social_Media_1350x1080_InDesign_May2021/Social_Media_1350x1080_InDesign_May2021 Folder/Document fonts/OpenSans-Bold_3421706210.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:103616
+FileModTime:637000704
+NameArray:0,Win,1,Open Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans-Extrabold
+FamilyName:Open Sans
+StyleName:Extrabold
+MenuName:Open Sans Extrabold
+StyleBits:0
+WeightClass:800
+WidthClass:5
+AngleClass:0
+FullName:Open Sans Extrabold
+WritingScript:Roman
+OutlineFileName:/Users/Admin/Desktop/0. Brand/2. Applications/Digital/Social Media/Social Media Guidelines UK March 2021/New templates May 2021/Social_Media_InDesign_Jan2021/Social_Media_1350x1080_InDesign_May2021/Social_Media_1350x1080_InDesign_May2021 Folder/Document fonts/OpenSans-ExtraBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:222584
+FileModTime:470541954
+NameArray:0,Mac,4,Open Sans Extrabold
+NameArray:0,Win,1,Open Sans Extrabold
+NameArray:0,Win,16,Open Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans-Light
+FamilyName:Open Sans
+StyleName:Light
+MenuName:Open Sans Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Open Sans Light
+WritingScript:Roman
+OutlineFileName:/Users/Admin/Desktop/0. Brand/2. Applications/Digital/Social Media/Social Media Guidelines UK March 2021/New templates May 2021/Social_Media_InDesign_Jan2021/Social_Media_1350x1080_InDesign_May2021/Social_Media_1350x1080_InDesign_May2021 Folder/Document fonts/OpenSans-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:222412
+FileModTime:470541954
+NameArray:0,Mac,4,Open Sans Light
+NameArray:0,Win,1,Open Sans Light
+NameArray:0,Win,16,Open Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans
+FamilyName:Open Sans
+StyleName:Regular
+MenuName:Open Sans
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Open Sans
+WritingScript:Roman
+OutlineFileName:/Users/Admin/Desktop/0. Brand/2. Applications/Digital/Social Media/Social Media Guidelines UK March 2021/New templates May 2021/Social_Media_InDesign_Jan2021/Social_Media_1350x1080_InDesign_May2021/Social_Media_1350x1080_InDesign_May2021 Folder/Document fonts/OpenSans-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:217360
+FileModTime:470541954
+NameArray:0,Mac,4,Open Sans
+NameArray:0,Win,1,Open Sans
+%EndFont
+
