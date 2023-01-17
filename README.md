@@ -9,7 +9,7 @@ Identify common diseases that manifest on the leaves of cotton plants by compari
 ### Data
 Leaf images data set: Easily classifiable, visually identifiable; leaves are more photogenic
 Cotton Plant: Valuable commodity and large component of agriculture industry
-Sample Data: Randomly selected example of each class from data set
+Sample Data: /Cotton Plant Disease. Randomly selected example of each class from data set
 
 ![6 Classes of Images](/Capstone/download.png)
 
@@ -17,11 +17,15 @@ Transfer learning with Keras and Tensor flow
 MobileNetV2
 Feature Extraction and Fine Tuning
 
-
-
 Random Transformation for training
 Loss: Cross Entropy , Accuracy
 Optimization: Adam Optimizer RMS Propagation
+
+![Accuracy and Loss](/Capstone/metrics.png)
+
+### Results
+Additional training data and tunining is needed to improve accurate output.
+Plant diseases that have a similar appearance may still be mistaken for each other.
 
 ![Mistaken Output](Capstone/mistakenoutput.png)
 
